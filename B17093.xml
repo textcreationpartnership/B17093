@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Panoplia Medica, or A medicinal armour for the whole body. Proof against the invasion of sickness, and assault of destroying disease: being composed of the greatest arcana, and select medicines in the whole practical part of physick, whose vertues are not to be exceeded by any, of safe use, and easy purchase: always ready to give relief to persons of all conditions, in the greatest emergencies, and even extreams of sickness. Carefully and faithfully prepared, by Ed. Andrews, M.D.</title>
+            <author>Andrews, Edward, M.D.</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17093</idno><idno type="EEBO-CITATION">99889054</idno>
+  <idno type="VID">196174</idno>
+  <idno type="EEBO-PROQUEST">2240903645</idno>
+  
+            <idno type="STC">Wing A3116AB</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[183]</idno>
+            <idno type="STC">ESTC R232741</idno>
+            <idno type="PROQUEST">ocm99889054</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889054e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17093)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196174)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[182])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Panoplia Medica, or A medicinal armour for the whole body. Proof against the invasion of sickness, and assault of destroying disease: being composed of the greatest arcana, and select medicines in the whole practical part of physick, whose vertues are not to be exceeded by any, of safe use, and easy purchase: always ready to give relief to persons of all conditions, in the greatest emergencies, and even extreams of sickness. Carefully and faithfully prepared, by Ed. Andrews, M.D.</title>
+                  <author>Andrews, Edward, M.D.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, popular --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="topical_term">Advertising --  Drugs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice">
+            <pb n="1" facs="tcp:196174:1"/>
+            <head>
+               <hi>PANOPLIA MEDICA,</hi> OR A Medicinal Armour FOR THE WHOLE BODY.</head>
+            <head type="sub">PROOF Against the Invasion of Sickness, and Assault of destroying Diseases: Being Composed of the greatest <hi>Arcana,</hi> and select <hi>Medicines</hi> in the whole Practical part of <hi>Physick,</hi> whose Vertues are not to be Exceeded by any, of safe use, and easy Purchase: Always ready to give Relief to Persons of all Con<g ref="char:EOLhyphen"/>ditions, in the greatest Emergencies, and even Extreams of Sickness. Carefully and Faithfully Prepared,</head>
+            <byline>By <hi>Ed. Andrews,</hi> M. D.</byline>
+            <p>THE first of these, is our Great <hi>Stomach Pill,</hi> whose <hi>Primary intention,</hi> is the Relief and Support of that Noble Part; And this it do's effectually, by carrying off from it, all such gross, foul, Putrid Humours, as Clog and Choke the Genuine Ferment of it; Pervert and destroy the Concoctive Faculty; vitiate the whole Mass of Blood, and Nutricious Juices, and cause innumerable Diseases, uneasy Life, and untimely Death. Now to prevent and Remedy all these, this noble <hi>Medecine</hi> is prepared, which caries off such supervacaneous Mat<g ref="char:EOLhyphen"/>ter; Rectifies the Ferment of the <hi>Stomach</hi> and Con<g ref="char:EOLhyphen"/>coction, and Raiseth the very Foundation of Di<g ref="char:EOLhyphen"/>seases,
+<pb n="2" facs="tcp:196174:2"/>in order to a firm and lasting state of Health, and is therefore call'd the <hi>Stomach Pill.</hi> Notwith<g ref="char:EOLhyphen"/>standing which; the Vertue of these <hi>Pills</hi> are not confind to the <hi>Stomach</hi> alone, for, being of fine and subtile Parts, They in their working through the <hi>Intestines,</hi> penetrate and open the obstructions of those obscure passages of the <hi>Bowells</hi> subservient to the <hi>Stomach,</hi> which are call'd by <hi>Anatomists, the first Ways,</hi> the Meseraic Veins, and those of the Me<g ref="char:EOLhyphen"/>sentery, <hi>&amp;c.</hi> through which the Chyle and whole Mass of Nourishment passeth, in order to the form<g ref="char:EOLhyphen"/>ing the Blood, and nourishing Juices, upon which the whole <hi>Body</hi> subsisteth; most of which are of so fine a fabrick, that they are scarce discernable to the most curious Eye, and therefore obnoxious to such obstructions or stoppings, as cause a multitude of fatal Diseases, which would afford Matter for a Volume; should I under take to write a History of them, which in truth, derive their original from the <hi>Stomach</hi> and <hi>ways</hi> so vitiated and perverted: For the Remedy and Rectifying of which, this excellent <hi>Pill</hi> is pri<g ref="char:EOLhyphen"/>marily adapted or fitted, with the utmost Industry and Art that can possibly be used: The operation of these <hi>Pills</hi> is after this maner, <hi>viz.</hi> If the <hi>Sto<g ref="char:EOLhyphen"/>mack</hi> be full and foul, they first unload it by a gentle Vomit or two, and then by easie and plentiful stools according to the Emergency of the Occasion: Thence in their passage they take along with them all gross matter that doth in any wise Obstruct or Stop up those Exile passages aforesaid, of the Lacteals, Mesentery, Liver, Spleen, <hi>&amp;c.</hi> and leave them open and free for the Current of an untainted Chyle, pure Mass of Blood and Nourishing nervous Juice, which produce a firm and sound Constitution, and consequently an Easie and Healthy Life: Which as it is the just and proper Office of a good Medicine, so, it is of these Ad<g ref="char:EOLhyphen"/>mirable
+<pb n="3" facs="tcp:196174:2"/>
+               <hi>Pills.</hi> The use of them is as followeth. The common Dose to an Ordinary or Midle constitution is <hi>six Pills,</hi> of which take two at Night going to Bed, and four the next Morning; after the first Stool or vo<g ref="char:EOLhyphen"/>mit (when they work that way) drink a small draught of Posset drink or thin Broth, or other warm draught as you have convenience, and the like after every second or third Stool, eat nothing till noon, and then that which is of easy digestion. Strong Bodies may take Three at Night and Four or Five the next Mor<g ref="char:EOLhyphen"/>ning: They who are of weaker Bodies may take One at Night and Three or Four the Morning following. Children of eight, ten or twelve years of age may take One at night and Two next day; And you are to observe this rule: To begin with a smaller dose and increase the Number, as you find them most agre<g ref="char:EOLhyphen"/>able to your sterength, and keep to That, which an easie observation will make familiar. I advise the first use of these <hi>Pills</hi> may be for three or four days, then twice a Week, and afterward once in a Week or Ten days, as you find occasion. Price 1 <hi>s.</hi> the Box.</p>
+            <p>The next <hi>Medicine</hi> is my <hi>Grand Antiscorbutick</hi> call'd <hi>Anima Cochleariae,</hi> or the <hi>Soul of Scurvy Grass:</hi> Being a <hi>Spirituous water</hi> drawn by <hi>Distillation</hi> from <hi>Scurvy Grass;</hi> (whence it hath its Name,) and from other <hi>Hearbs</hi> and <hi>Materials,</hi> which in their Nature are most properly Apposite to the Cure of the <hi>Scur<g ref="char:EOLhyphen"/>vy</hi> in all its Degrees and Symytoms. The Prepara<g ref="char:EOLhyphen"/>tion of this Medicine is such, as, that all the In<g ref="char:EOLhyphen"/>gredients contain'd in It, are by a <hi>previous Fermentation,</hi> and other necessary <hi>Processes</hi> separated from all their Gross and Earthy substances, and there<g ref="char:EOLhyphen"/>by made very Subtile, Searching, Cleansing, Open<g ref="char:EOLhyphen"/>ing, Sweeting, and Strengthning. It powerfully Assails and Totally Vanquisheth this Reigning Di<g ref="char:EOLhyphen"/>sease, which Affects more or less, all Families, if not
+<pb n="4" facs="tcp:196174:3"/>Persons. It entirely subdues its most Violent and Mor<g ref="char:EOLhyphen"/>tifying Symptoms, and renders the Whole Man, Ve<g ref="char:EOLhyphen"/>gete, Lively, and Active, which was before-Incum<g ref="char:EOLhyphen"/>bered with a listless Heaviness, flying Pains, Aches, Soreness, and Universal indisposition of Body, sore <hi>Mouth</hi> and <hi>Gums,</hi> loose <hi>Teeth</hi> and <hi>Spots</hi> in divers Parts, and many other, which are so well known to all People of This and other Northern Nations, that I need not be larger in the Description of It. The use hereof is Easy and Pleasant: Drink an ordinary Wine Glass of It in the Morning fasting, use moderate Exercise, either Walking, Riding, or following accustomed business at home or abroad, or other that may warm the <hi>Blood</hi> in order to a Quick Motion and Coopera<g ref="char:EOLhyphen"/>tion with the Medicine: Take another Glass, about Four or Five of the clock in the Afternoon, or Three or Four hours distant from Dinner, after the same Order, and another, an hour or two after a Light Supper, or before Bed time. Purge once a Week with the <hi>Stomach Pills</hi> before mentioned, and I will con<g ref="char:EOLhyphen"/>fidently assure any <hi>Scorbutick Patients,</hi> that by the use hereof, after this order prescribed, or a few Weeks, that they shall find themselves wholy steed and deli<g ref="char:EOLhyphen"/>ver'd from that Uneasy and Troublesome companion the <hi>Scurvy.</hi> Price 1 <hi>s.</hi> the Bottle of half a pint.</p>
+            <p>Our third Remedy particularly respects the <hi>Breast</hi> and <hi>Lungs,</hi> and is of two Sorts, the One our <hi>Pulmo<g ref="char:EOLhyphen"/>niack Lozenge</hi> the Other is our <hi>Alexiterial Balsamick Syrup.</hi> These in their Respective Operations doe effectually help all Infirmities of the <hi>Lungs,</hi> and <hi>Brea<g ref="char:EOLhyphen"/>thing Organs,</hi> which are <hi>Coughs, Phthysick, Asthma</hi> or <hi>dificult breathing, Wheasing, Inflation</hi> (com<g ref="char:EOLhyphen"/>monly call'd <hi>Rising</hi> of the <hi>Lights</hi>) as also Excoria<g ref="char:EOLhyphen"/>tion or Soreness of the <hi>Trachaea Arteria</hi> or <hi>Wine-pipe,</hi> which often proceeds to <hi>Ulceration</hi> and <hi>Consumption,</hi> properly so call'd (for every wasting of the Body is not
+<pb n="5" facs="tcp:196174:3"/>properly call'd a Consumption, but that only which proceeds from the <hi>Lungs,</hi> the other is an <hi>Atrophie,</hi> as being the Effect of other Causes:) As also <hi>Orthop<g ref="char:EOLhyphen"/>naea,</hi> or Streight Breathing, and <hi>Pertpneumonia,</hi> or Inflamation of the <hi>Lungs,</hi> which is still attended with a <hi>Feaver,</hi> and often a <hi>Pleurisie,</hi> which generally proves Faral. These with divers others which come under no denomination, are Diseases of the <hi>Lungs</hi> and Organs of Respiration, caused either by Sharp de<g ref="char:EOLhyphen"/>fluctions o<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Rheum,</hi> or a Salt serous <hi>Catarh</hi> falling upon the <hi>Breast</hi> as aforesaid; or else Cold, Stiff, Vis<g ref="char:EOLhyphen"/>cous Phlegm impacted in the Lobes of the <hi>Lung<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> which doe variously affect Them, according to the Quantity or Quality of the Matter Offending, and also accor<g ref="char:EOLhyphen"/>ding to the Nature or Condition of the Parts Recei<g ref="char:EOLhyphen"/>ving and Containing such present Matter fallen up<g ref="char:EOLhyphen"/>on Them; which being Graduated and Exaspera<g ref="char:EOLhyphen"/>ted, by neglect of timely Remedies, cause a Weak and Languid <hi>Body,</hi> and generally a fatal Conclusion.</p>
+            <p>Now for a seasonable Remedy, for These and all o<g ref="char:EOLhyphen"/>ther dire affects of the <hi>Breast</hi> and <hi>Lungs;</hi> You have these Excellent Medicines, properly Adapted, and faith<g ref="char:EOLhyphen"/>fully Prepared, and always at Hand to give Relief in time of need, which are to be used as followeth.</p>
+            <p>The <hi>Lozenges</hi> are your Companion in the day, of which take about the weight of a large Shilling or more, in the Morning fasting, the like at 3 or 4 of the clock in the Afternoon, and last at Night: These are times to be certainly Observed, at other times, as your Condition requires it; let them dissolve in your <hi>Mouth,</hi> and swallow them by degrees, and the Effect will answer your desire. The <hi>Balsamick Syr<g ref="char:EOLhyphen"/>rup,</hi> is your Guard in the Night when your Sleep (the great Refreshment of Nature) hath been inter<g ref="char:EOLhyphen"/>rupted by <hi>Coughing, Ratling,</hi> or otherwise troubled; This takes off the <hi>sharp destillation, sweetens</hi> the <hi>Hu<g ref="char:EOLhyphen"/>mours,
+<pb n="6" facs="tcp:196174:4"/>opens</hi> the <hi>Stopping,</hi> and gives you a Comforta<g ref="char:EOLhyphen"/>ble Repose, which mightily conduceth to your Re<g ref="char:EOLhyphen"/>covery. These Excellent <hi>Medicines</hi> thus used, will infallibly give Relief, and fully answer the Ends to which they are design'd, abating those violent Sym<g ref="char:EOLhyphen"/>ptoms, and soon repair the decayes which Nature hath suffered, and strength will ensue to your abun<g ref="char:EOLhyphen"/>dant satisfaction. Take two Spoonfuls at night going to Bed, in a small draught of burn'd Wine, Mace Ale, or Posset Drink. Young Children may take half a Spoonful, those of more years, <hi>viz.</hi> about 10 or 12, a whole one or more as you see occasion.</p>
+            <p>Note: That this Exellent <hi>Alexiterial Syrup</hi> is yet endued with more Vertues then are hither to mentioned, for beside it's singular operation upon the <hi>Breast</hi> and <hi>Lungs;</hi> It hath it's <hi>Alexiterial</hi> Vertues in a high degree. It takes off the Violent Symptoms of the <hi>Small Pox,</hi> and <hi>Meazles,</hi> and being given before, or upon their coming out. It hugely assists Nature in this work, and makes them come out kindly. So also in all sorts of <hi>Feavers</hi> it is of Admirable use, throwing off the Malignity and Fury thereof, keeps off a <hi>Delirium,</hi> or <hi>Altenation</hi> of <hi>Mind,</hi> causeth moderate sweat abates thirst, and carries off by the Easiest operation i<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ginable, the whole Febrile Matter, and brings the <hi>Body</hi> to <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Pristine Temper. It also is a certain Cure for <hi>A<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ues</hi> taken according to direction, which in Acute Diseases shall be particularly given to such as shall make use of this Excellent Medicine.</p>
+            <p>Furthermore, It is a present Remedy in the <hi>Griping of the Gutts,</hi> whether with, or without a <hi>Flux,</hi> as also in the most severe fitts of the <hi>Cholick,</hi> in these two you may depend upon this single Medicine for a certain Cure, never failing: Take it thus, First, take a Clyster, of a Pint of Posset drink, wherin a handful of <hi>Mallows</hi> and as much <hi>Camomile</hi> flowrs have been boyled and strain'd, to which put a quarter of a Pound of course Sugar, when it hath wrought, take two or three Spoonfuls of this <hi>Alexiterial Balsamick Syrop,</hi> in a small draught of clear <hi>Posset</hi> Drink go to Bed and lie still in a gentle breathing Sweat (if it offers it self,) and you will soon find Ease, and soon after Cure; which, if it be not finished at the first dose (as it seldom or never misseth) take it again about
+<pb n="7" facs="tcp:196174:4"/>six or eight hours after, and it will surely perfect it: The Price of the <hi>Lozenges</hi> is, a shilling the Paper of two ounces. The <hi>Ale<g ref="char:EOLhyphen"/>xiterial Balsamick Syrup,</hi> two shillings the Glass of four ounces.</p>
+            <p>Our fourth <hi>Medicine,</hi> is the <hi>Tincture of Mars,</hi> or <hi>Steel,</hi> a <hi>Medicine</hi> indeed! which never till now made its Publique entry; Though in my private Practise I have, in the tract of many Years; had such high proofs, and demonstrations of its Ver<g ref="char:EOLhyphen"/>tues, that I never mett with or heard of, any that exceeded it. It doth Wonders in <hi>Diseases</hi> of <hi>Melancholy,</hi> and <hi>Hypochondriack Passions,</hi> tho to the degree of <hi>Madness.</hi> It gives a certain Cure in <hi>Convulsions, Fitts of the Mother, Spleen,</hi> and all <hi>Flatuosi<g ref="char:EOLhyphen"/>ties,</hi> or <hi>Windiness,</hi> it is a Soveraign Remedy, and takes away the Original Cause of these <hi>Distempers.</hi> In all Female Sicknesses It hath scarce its Equal, for it opens all <hi>Obstructions</hi> of the <hi>Womb,</hi> and <hi>Hypogastrick Vessels,</hi> and both in Women and Vir<g ref="char:EOLhyphen"/>gins, it works such Essects, as where Nature is either too libe<g ref="char:EOLhyphen"/>ral, or too frugal in its benefits to the tender Sex, it reduceth those Extreams to Moderation; after a singular maner: The use hereof is thus.</p>
+            <p>After three or four times Purging with our great <hi>Stomach Pill,</hi> and Bleeding where it is requisite, take fifteen or twenty Drops of our <hi>Tincture of Mars,</hi> aforesaid, in a Glass of White or Rhe<g ref="char:EOLhyphen"/>nish Wine in a Morning fasting, they who cannor afford them<g ref="char:EOLhyphen"/>selves Wine, may take it in Beer, Ale, or other such Liquor that may be had, that is not too thin and small, use Exercise after it, Then about four or five, after Noon, repeat the same quantity, as in the Morning, use moderate Exercise, and take it again an hour or two before you go to Bed. Purge once a Week with our <hi>Pills,</hi> and by continuance of this Course for a few Weeks, you will find such Effects as shall answer your utmost desires.</p>
+            <p>These <hi>Medicines</hi> are but few (four in all) But; their Ver<g ref="char:EOLhyphen"/>tues are so large and extensive, that they take in the whole series of Diseases (generally speaking) that infest Mankind, answering in all respects the whole Design of <hi>Medicine.</hi> And indeed, the whole Method of Practise used among the Physi<g ref="char:EOLhyphen"/>cians at this day, is comprehended within this narrow Circuit; Whil'st that numerous and pompous Train of <hi>Waters, Electua<g ref="char:EOLhyphen"/>ries, Apozems, Potions, Pills, Powders, Species, Extracts, In<g ref="char:EOLhyphen"/>fusions, Decoctions, Elixyrs, Tincture,</hi> and Legions of others, have still but a tendency to the said end, and are at best but (according to the usual Cant) succedaneous, or rather cir<g ref="char:EOLhyphen"/>cumstantial in respect of these, or of this kind; and I may justly say Nauseous and Incongruous.</p>
+            <pb n="8" facs="tcp:196174:5"/>
+            <p>Wherefore, in order to the regular use, and application of these <hi>Medicines</hi> I shall only add this Precaution.</p>
+            <p>That all Diseases are of these two kinds; <hi>Chronical</hi> and <hi>Acute</hi>; <hi>Chronical,</hi> are those of long growth, and long duration, or continuance, such as have their foundation secretly laid by a foregoing intemperate, or inconvenient way of living, and by slow degrees come to their state, and continue for Months and Years to annoy and destroy the Body. <hi>Acute Diseases</hi> are such as are of sudain Rise, and soon determined, either in Life or Death, and those are continual <hi>Feavers Malignant</hi> or <hi>Pestilen<g ref="char:EOLhyphen"/>tial, Small-Pox, Meazles, &amp;c.</hi> Now, these later (<hi>Acute Di<g ref="char:EOLhyphen"/>seases</hi>) will require more particular Advise and Direction, (which I am alway ready to give,) in the menagement and conduct of their cure, and application of these <hi>Medieines,</hi> in order thereunto, which are of sufficient Vertue and Power to performe it. The former, I mean those <hi>Chronical Diseases</hi> are immediatly in the Power of the Parient, by the due and timely application of the aforesaid <hi>Medicines,</hi> according to the Rules and Orders here prescribed; To which I beseech God to give his Blessing, I have only this one thing to add by way of,</p>
+            <p>
+               <label>Advertisement.</label>
+            </p>
+            <p>That in the <hi>Venereal Disease,</hi> in all the Branches and Degrees, from the first beginings thereof (commonly known by the name of a <hi>Clap</hi>) to the highest &amp; most Malignant Symptoms when grown to a confirmed and inveterate <hi>Pox.</hi> These my <hi>Stomach Pills,</hi> together with a <hi>Diet Drink</hi> which I make for this use, are Prepared fully and entirely to Effect and absolve the whole Cure. Though perhaps some external applications may be useful in Case of In<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ererate <hi>Ulcers,</hi> which must be presently cheked where a Part is in danger to be lost, or spoiled, before the Disease can be Radicaly exterminated. And these are still at hand to be had as occasion requires.</p>
+            <p>And if any shall desire to have their Names or Persons con<g ref="char:EOLhyphen"/>ceal'd, they may (upon giving an account of their Case in Writing, have them sent with that desired secrecy.</p>
+            <p>These things (Reader) which are here Candidly offered to your Help and Succour in all the Accidents and Emergencies of Sickness, shall be with all Faithfulness and Integrity performed at my abode, at the second House on the right hand in <hi>Bolt</hi> and <hi>Tun</hi> Court in <hi>Fleet-street.</hi>
+            </p>
+            <p>Where are several Excellent <hi>Cordial Waters</hi> to be had, Par<g ref="char:EOLhyphen"/>ticularly that most Deliclous and Rich <hi>Citron Water,</hi> as Cordial and Comfortable in Vertues, as delightful in Tast.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
